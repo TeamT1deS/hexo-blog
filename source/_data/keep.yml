@@ -4,7 +4,7 @@
 base_info:
   title: Team T1deS
   author: Team T1deS
-  url: http://82.157.239.188/
+  url: http://team.t1des.com/
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img: 
 
@@ -28,7 +28,7 @@ style:
   left_side_width: 260px
 
   # Content area max width
-  content_max_width: 920px
+  content_max_width: 950px
 
   # Mouse hover
   hover:
