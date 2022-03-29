@@ -6,7 +6,7 @@ base_info:
   author: 
   url: http://team.t1des.com/
   # Logo image (You can use local image, image external link or don’t fill)
-  logo_img: 
+  logo_img: https://cdn.jsdelivr.net/gh/TeamT1deS/hexo-blog/hexo-img/T1deS-Logo.png
 
 # ---------------------------------------------------------------------------------------
 # Theme style settings
@@ -16,7 +16,7 @@ style:
   primary_color: "#0066CC"
 
   # Avatar (You can use local image or image external link)
-#  avatar: 
+  # avatar: 
 
   # Favicon (You can use local image or image external link)
   favicon: /images/green.svg
