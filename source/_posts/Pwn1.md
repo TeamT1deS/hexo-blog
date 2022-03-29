@@ -1,5 +1,5 @@
 ---
-title: 「Rayee@Team T1deS」Pwnable Diary \#01
+title: 「Rayee@Team T1deS」Pwnable Diary Page.01
 author: Rayee
 excerpt: Pwnable.kr  fd / collision / bof / flag / passcode
 date: 2022/3/30 00:00:00
