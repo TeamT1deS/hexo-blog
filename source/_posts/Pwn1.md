@@ -2,14 +2,15 @@
 title: 「Rayee@Team T1deS」Pwnable Diary #01
 author: Rayee
 excerpt: Pwnable.kr  fd / ...
-date: 2022/3/29 22:00:00
+date: 2022/3/30 00:00:00
 tags: 
-
 - Rayee
 - Pwnable
 ---
 
 ## fd  
+基础题目 连接到靶机发现目录下存在flag文件 但没有读取权限  
+查看fd.c代码并进行分析
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,7 +21,7 @@ int main(int argc, char* argv[], char* envp[]){
                 printf("pass argv[1] a number\n");
                 return 0;
         }
-        int fd = atoi( argv[1] ) - 0x1234;
+        int fd = atoi( argv[1] ) - 0x1234;//可操控点[1]
         int len = 0;
         len = read(fd, buf, 32);
         if(!strcmp("LETMEWIN\n", buf)){
