@@ -1,5 +1,6 @@
 ---
 title: 「Rayee@Team T1deS」Pwnable Diary #01
+author: Rayee
 excerpt: Pwnable.kr  fd / ...
 date: 2022/3/30 00:00:00
 tags: 
