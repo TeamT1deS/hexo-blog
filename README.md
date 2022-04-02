@@ -8,6 +8,9 @@
 <a target="_blank" href="https://github.com/XPoet/hexo-theme-keep">
     <img src="https://img.shields.io/github/package-json/v/Xpoet/hexo-theme-keep?label=hexo-theme-keep&style=flat-square" alt="hexo-theme-keep">
 </a><br/>
+<a target="_blank" href="https://www.jsdelivr.com/">
+    <img src="https://img.shields.io/jsdelivr/gh/hm/TeamT1deS/hexo-blog?label=jsDelivr&style=flat-square" alt="jsDelivr">
+</a>
 <a target="_blank" href="https://github.com/Molunerfinn/PicGo">
     <img src="https://img.shields.io/github/v/release/Molunerfinn/PicGo?label=PicGo&style=flat-square" alt="PicGo">
 </a><br/>
