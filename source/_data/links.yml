@@ -1,4 +1,8 @@
-- name: WZH
-  link: http://m4cre.cn/
-  description: 来者往者溪山清净且停停
-  avatar: https://cdn.jsdelivr.net/gh/TeamT1deS/hexo-blog/hexo-img/wzh.png
+- links_category: Team T1deS
+  has_thumbnail: false
+  list:
+  - name: WZH
+    link: http://m4cre.cn/
+    description: 来者往者溪山清净且停停
+    avatar: https://cdn.jsdelivr.net/gh/TeamT1deS/hexo-blog/hexo-img/wzh.png
+    has_thumbnail: false

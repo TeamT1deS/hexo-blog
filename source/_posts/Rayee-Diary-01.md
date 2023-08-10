@@ -1,14 +1,15 @@
 ---
-title: 「Rayee@Team T1deS」Pwnable Diary Page.01
+title: Diary > Rayee > Pwnable Diary Page 0x01
 author: Rayee
-excerpt: Pwnable.kr  fd / collision / bof / flag / passcode
+excerpt: \[ Pwn日记 01 \]  Pwnable.kr  -  fd / collision / bof / flag / passcode
 date: 2022/3/30 00:00:00
 tags: 
+- Diary
 - Rayee
 - Pwnable
 ---
 
-## fd  
+### fd  
 基础题目 连接到靶机发现目录下存在flag文件 但没有读取权限  
 查看fd.c代码并进行分析
 ```c
