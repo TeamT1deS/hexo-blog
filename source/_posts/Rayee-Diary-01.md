@@ -2,7 +2,7 @@
 title: Diary > Rayee > Pwnable Diary Page 0x01
 author: Rayee
 excerpt: \[ Pwn日记 01 \]  Pwnable.kr  -  fd / collision / bof / flag / passcode
-date: 2022/3/30 00:00:00
+updated: 2022/3/30 00:00:00
 tags: 
 - Diary
 - Rayee
