@@ -23,6 +23,6 @@
 ## 项目说明  
 >###  开发环境  
 >- 博客框架  Hexo  
->- 使用主题  Keep  
+>- 使用主题  Redefine  
 >- 项目部署  GitHub / Netlify  
 >- 图床部署  GitHub / jsDelivr / PicGo
